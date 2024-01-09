@@ -7,8 +7,10 @@
   "topics": [],
   "legacy_uid": "",
   "instructors": {
-    "content": [],
-    "website": "chris-758597"
+    "content": [
+      "ec4ca99d-2a80-4f37-bc59-f691796fd404"
+    ],
+    "website": "ocw-www"
   },
   "course_image": {
     "content": "6cacac7a-49b3-433b-887b-35e3c79307cf",
