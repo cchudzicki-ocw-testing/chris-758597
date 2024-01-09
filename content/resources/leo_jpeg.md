@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/chris-758597/leo.jpeg
+file: /courses/123-chris-test-758597-spring-2024/leo.jpeg
 file_size: 64016
 file_type: image/jpeg
 image_metadata:
